@@ -5,9 +5,9 @@ import (
 )
 
 func TestDep()  {
-	fmt.Println("Hello i'm testDep")
+	fmt.Println("Hello i'm testDep 0.0.4")
 }
 
 func TestDep2()  {
-	fmt.Println("Hello i'm testDep2")
+	fmt.Println("Hello i'm testDep2 0.0.4")
 }
